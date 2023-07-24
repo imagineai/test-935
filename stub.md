@@ -13,3 +13,9 @@ temperature: 0
 Append Hello World to a readme file using echo command
 ```
 
+
+
+```stub
+Write a simple python program that is able to multiple and add numbers
+```
+
